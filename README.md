@@ -97,7 +97,9 @@ HTML is used to create the structure of the application, including input fields,
 🛠 Technologies Used:
 
 HTML5
+
 CSS3
+
 JavaScript
 
 🌐 Live Demo
