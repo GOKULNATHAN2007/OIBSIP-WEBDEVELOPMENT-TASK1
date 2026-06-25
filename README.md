@@ -37,6 +37,9 @@ External Assets – Includes images and icons used in the project.
 
 FoodMunch is a modern and user-friendly frontend project that demonstrates responsive web design and UI development skills. It is an excellent project for beginners to practice building attractive websites.
 
+Outcome:
+Successfully developed a fully responsive food store landing page using HTML, Tailwind CSS, and CSS. The project improved my skills in responsive web design, layout creation, and building attractive user interfaces.
+
 
 🌐 Live Demo
 GitHub Pages:https://resplendent-hummingbird-7c7ee8.netlify.app/
